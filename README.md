@@ -5,7 +5,7 @@
   Sono un appassionato di programmazione e sto iniziando il mio viaggio nel mondo dello sviluppo software. Sono entusiasta di imparare e crescere come sviluppatore e contribuire alla comunità open source.
   
   🌱 **Attualmente sto imparando:** 
-  Sto studiando i principali linguaggi di programmazione , concentrandomi su linguaggi come JavaScript e php. Sto anche esplorando il mondo del web development e del mobile app development.
+  Sto esplorando diversi linguaggi di programmazione, con un focus particolare su JavaScript e PHP nel contesto dello sviluppo web e mobile. Dopo aver acquisito familiarità con questi linguaggi, sto ora dedicando del tempo allo studio di Java, un linguaggio compilato e tipizzato. L'apprendimento di Java mi sta fornendo una prospettiva diversa    e approfondita sulla programmazione, consentendomi di ampliare le mie competenze e affrontare sfide più avanzate.
   
   💼 **Obiettivi futuri:**
   Spero di lavorare su progetti interessanti, imparare nuove tecnologie e connettermi con altri sviluppatori per condividere conoscenze ed esperienze.
