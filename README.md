@@ -1,19 +1,25 @@
 ### Ciao! Mi chiamo Stefano Grasso Benvenuto sul mio GitHub👋
 <div>
-   ## Ciao, sono Stefano Grasso! 👋
-  
-  Sono un appassionato di programmazione e sto iniziando il mio viaggio nel mondo dello sviluppo software. Sono entusiasta di imparare e crescere come sviluppatore e contribuire alla comunità open source.
-  
-  🌱 **Attualmente sto imparando:**
-  Sto esplorando diversi linguaggi di programmazione, con un focus particolare su JavaScript e PHP nel contesto dello sviluppo web e mobile. Dopo aver acquisito familiarità con questi linguaggi, sto ora dedicando del tempo allo studio di Java, un linguaggio compilato e tipizzato. L'apprendimento di Java mi sta fornendo una prospettiva diversa    e approfondita sulla programmazione, consentendomi di ampliare le mie competenze e affrontare sfide più avanzate.
-  
-  💼 **Obiettivi futuri:**
-  Spero di lavorare su progetti interessanti, imparare nuove tecnologie e connettermi con altri sviluppatori per condividere conoscenze ed esperienze.
-  
-  📫 **Come contattarmi:**
-  Se hai consigli, suggerimenti o semplicemente vuoi condividere la tua esperienza, non esitare a contattarmi! Sarà un piacere conoscere altri sviluppatori e imparare da voi.
-  
-  Grazie per aver visitato il mio profilo! 😊
+ 👋 Ciao! Sono Stefano, un Software Developer con una passione per il coding e la risoluzione dei problemi. Lavoro principalmente con .NET in ambito assicurativo, dove mi occupo di progettare e sviluppare soluzioni software che ottimizzano i processi e migliorano l'efficienza operativa.
+
+💻 Cosa Faccio:
+
+Sviluppo e manutenzione di applicazioni in .NET.
+Collaboro con i team per implementare soluzioni scalabili e sicure.
+Mi dedico a migliorare l'automazione e l'integrazione dei sistemi nel settore assicurativo.
+🔧 Competenze:
+
+.NET Core/Framework
+C#
+SQL Server
+ASP.NET e Web API
+Architettura a Microservizi
+📚 Interessi:
+
+Innovazioni tecnologiche nel settore assicurativo
+Best practices di sviluppo software
+Automazione e integrazione dei processi
+🚀 Sempre alla ricerca di nuove sfide e opportunità per crescere come sviluppatore e contribuire a progetti innovativi!
 
 </div>
 
